@@ -1,5 +1,7 @@
 # CyloPi-Studio-Web
 
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/mazmongadas/mazmongadas.html
+
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/redzeppelin/zeppelin.html
 
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/sr0/showroom0.html
