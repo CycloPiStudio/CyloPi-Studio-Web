@@ -1,6 +1,6 @@
 # CyloPi-Studio-Web
 
-https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/pocas_luces//pocas_luces/3d_pocas_luces.html
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/pocas_luces/3d_pocas_luces.html
 
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/pocas/luces.html
 
