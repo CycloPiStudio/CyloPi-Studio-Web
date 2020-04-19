@@ -1,5 +1,7 @@
 # CyloPi-Studio-Web
 
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/ejemplo_barra_carga/ejemplo_barra_carga.html
+
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/260-muros/muros.html
 
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/pocas_luces/3d_pocas_luces.html
