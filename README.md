@@ -1,4 +1,4 @@
-# CyloPi-Studio-Web
+# Cyclo π Studio
 
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/pruebas/showroom.html
 
@@ -42,7 +42,7 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2019/Cyber/Cyber_Chris
 
 
 
-Página Web de  CyloPi Studio:
+Página Web de  Cyclo Pi Studio:
 https://cyclopistudio.github.io/CyloPi-Studio-Web/index.html
 
 Collaborators and partners:
@@ -56,7 +56,4 @@ Juan Blender  https://sites.google.com/site/blender3dgear/
 greenfactory.es http://greenfactory.es/
 
 
-
-Cyclo Pi Studio December 2019
-
-Cyclo π Studio Web
+Cyclo π Studio, Cyclo Pi Studio Web
