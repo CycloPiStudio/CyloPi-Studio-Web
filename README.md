@@ -1,6 +1,6 @@
 # Cyclo π Studio
 
-https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/mapa_creacion/mapa.html
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/mapa_creation/mapa.html
 
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/slide/slide_buddy.html
 
