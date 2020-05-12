@@ -52,6 +52,7 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2019/Cactus2botones/ca
 
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2019/Cyber/Cyber_Christmas.html
 
+¿Pero puedo editar o que?
 
 
 Página Web de  Cyclo Pi Studio:
