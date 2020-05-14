@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/arriba-arriba.png-0c9a9f18b6edeb64b5576455203e3aba.stex"
+path="res://.import/arriba-arriba.png-2172e5ff67d3d1943f353c81fd671a9a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/arriba-arriba.png"
-dest_files=[ "res://.import/arriba-arriba.png-0c9a9f18b6edeb64b5576455203e3aba.stex" ]
+source_file="res://export/arriba-arriba/arriba-arriba.png"
+dest_files=[ "res://.import/arriba-arriba.png-2172e5ff67d3d1943f353c81fd671a9a.stex" ]
 
 [params]
 
