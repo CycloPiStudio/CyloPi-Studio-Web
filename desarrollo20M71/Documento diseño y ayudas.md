@@ -1,8 +1,11 @@
 # Documento de diseño de página Web
 
 -----------  4-12-2020  Paso 1: Preliminares  --------------------
-Proyecto de tutorial para htm
+
+Proyecto de tutorial para html
+
 ¿Cómo hacer una página web? 
+
 Cyclo PI continua con auto-formación. Esta vez nos metemos con el html, y así de paso le damos una vuelta a la Página.
 
 La idea es coger un programa libre y mejorar nuestra página. Hemos visto que 
@@ -12,7 +15,6 @@ Bueno, pues entonces, nuestra página el 4 de diciembre de 2020 era:
 https://github.com/CycloPiStudio/CyloPi-Studio-Web/blob/2cb9ea6a31e3c509f0a6a8b62174583edf0b6c63/index.html
 
 Esta página está hecha con KompoZer, buen programa para empezar con el html
-
 
 Para crea una página hay que tener conceptos de Internet. Muchos de los recursos que están relacionados con el diseño de páginas  se van mencionar como futuros merecedores de un tutorial, pues tienen chicha suficiente.  Adelantamos que  puntos como servidor, dominio  y cosas de estas, lo son.  También lo es https://github.com 
 
