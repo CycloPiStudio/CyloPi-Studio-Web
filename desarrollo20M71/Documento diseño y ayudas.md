@@ -92,6 +92,9 @@ https://github.com/CycloPiStudio/CyloPi-Studio-Web/commit/05e4b16df0bddddf50e346
 Le ponemos el logotipo. En la herramienta pinchamos en el icono de insertar imagen. Picamos el texto y pegamos el url de la imagen: 
 https://github.com/CycloPiStudio/CyloPi-Studio-Web/blob/ce2c46f2181f0d7cbe2eab832babcfa4dc4a6d33/index.html 
 
+Nuevo paso cambiamos logo de tamaño y lo introducimos en el header  https://github.com/CycloPiStudio/CyloPi-Studio-Web/blob/d3c4cc7032b7a10569e697a74da67b0d7668fc95/index.html 
+
+Metemos footer https://github.com/CycloPiStudio/CyloPi-Studio-Web/tree/5d2e88cd7717b226366b519de354807f1c8324f5 
 
 Primero  metemos  un link a página de referencia ( la que está hecha con Kompozer) así los visitantes podrán ver algo.
 Y otro link para la landing page del proyecto. El proceso de crear la landing page es similar al del index.  Archivo nuevo y guardar (nombre del archivo y título de la página)
