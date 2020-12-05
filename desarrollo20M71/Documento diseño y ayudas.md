@@ -64,6 +64,22 @@ https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/index-diciembr
 
 Paso 2-3 Ya estamos preparados para comenzar desde cero. La herramienta  para el html  http://www.bluegriffon.org/ (mola).
 
+Recursos necesarios:
+
+Sistema archivos (servidor y soporte) general : https://github.com/ 
+
+Sistema archivos (servidor y soporte) en nuestro caso:  https://github.com/CycloPiStudio/CyloPi-Studio-Web 
+
+Herramienta edición  http://www.bluegriffon.org/ 
+
+Documento de diseño del proyecto y planificación: https://github.com/CycloPiStudio/CyloPi-Studio-Web/blob/a76897acb76120155c4c9c6e78e491d51a19d5d6/desarrollo20M71/Documento%20dise%C3%B1o%20y%20ayudas.md 
+
+Con todo esto preparado, se abre el http://www.bluegriffon.org/ y creamos un archivo nuevo. Se guarda con nombre index.html .
+
+En este punto actualizo el index de la página para tener el seguimiento del tutorial paso a paso. Es decir ponemos el código que la herramienta pone por defecto en un archivo en blanco. Hay que poner el título de la página para guardar.
+
+https://github.com/CycloPiStudio/CyloPi-Studio-Web/tree/7c1b0da1f2f13bf17621e90d834ccd806dfca50a 
+
 
 -----------  Fin  Paso 2: Archivos --------------------
 
