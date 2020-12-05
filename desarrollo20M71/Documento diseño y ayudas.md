@@ -91,17 +91,21 @@ Y otro link para la landing page del proyecto. El proceso de crear la landing pa
 
 -----------  Fin  Paso 3: Ayudas y estructura  --------------------
 
-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
-Por este archivo:
+Página Web de Cyclo Pi Studio: https://cyclopistudio.github.io/CyloPi-Studio-Web/index.html
 
+Collaborators and partners:
 
-Ya tu sabes. Aquí dándole vidilla al :
+Cyclo π Studio in Github https://cyclopistudio.github.io/
 
-https://github.com/CycloPiStudio/Plantilla_menu/tree/0afd5823d51af006a8a9f490a7b0c0837d411bf6
+Cyclo π Studio Web 2017 http://greenfactory.es/23d/cyclopi.html
 
-https://github.com/CycloPiStudio/Plantilla_menu
+Juan Blender https://sites.google.com/site/blender3dgear/
 
-FPS tutorial
-https://docs.godotengine.org/en/3.1/tutorials/3d/fps_tutorial/part_one.html
+Jose https://JoseGarciaMoreno.github.io/template_hmtl/index.html 
+
+greenfactory.es https://greenfactory.es/ y http://greenfactory.es/
+
+Cyclo π Studio, Cyclo Pi Studio Web
 
