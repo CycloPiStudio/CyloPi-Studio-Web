@@ -43,7 +43,31 @@ La idea es: escribir un documento de  diseño que integre el estilo y el conteni
 
 -----------  5-12-2020  Paso 2: Archivos  --------------------
 
+El tema de los archivos y servidor es muy importante, pero ya se ha comentado que está fuera del alcance de este tutorial. Por lo que solo vamos a informar de como trabajamos nosotros en este punto. Seguro que formas mejores de hacerlo, por favor ilumínanos (contacta con nosotros). 
+Como ya  indicamos en el paso 1 nosotros utilizamos https://github.com
+El plan de trabajo de este paso 2 será:
 
+Paso 2-1 Poner una carpeta donde incluir este archivo que será el documento de diseño y que además utilizaremos para ir metiendo parte del contenido (texto). También deberíamos meter el manual de estilo, pero ya se verá.
+
+https://github.com/CycloPiStudio/CyloPi-Studio-Web/blob/master/desarrollo20M71/Documento%20dise%C3%B1o%20y%20ayudas.md 
+
+Paso 2-2 Como vamos a crear la página desde cero, también pondremos una copia de los que había para tener una referencia.
+
+En archivo:
+
+https://github.com/CycloPiStudio/CyloPi-Studio-Web/blob/master/desarrollo20M71/index-diciembre-2020.html 
+
+En Web:
+
+https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/index-diciembre-2020.html 
+
+
+Paso 2-3 Ya estamos preparados para comenzar desde cero. La herramienta  para el html  http://www.bluegriffon.org/ (mola).
+
+
+-----------  Fin  Paso 2: Archivos --------------------
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
 Por este archivo:
 
