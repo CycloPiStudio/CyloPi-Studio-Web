@@ -80,8 +80,16 @@ En este punto actualizo el index de la página para tener el seguimiento del tut
 
 https://github.com/CycloPiStudio/CyloPi-Studio-Web/tree/7c1b0da1f2f13bf17621e90d834ccd806dfca50a 
 
-
 -----------  Fin  Paso 2: Archivos --------------------
+
+-----------  5-12-2020  Paso 3: Ayudas y estructura  --------------------
+
+Este paso  mencionaremos el tema del posicionamiento (este tema da para otro par de tutoriales). Pondremos algunos elementos de ayuda a la edición, incluiremos una landing page del proyecto. No sería necesario ya que el proyecto es la página en sí, pero la incluimos para meter este tutorial.
+
+Primero  metemos  un link a página de referencia ( la que está hecha con Kompozer) así los visitantes podrán ver algo.
+Y otro link para la landing page del proyecto. El proceso de crear la landing page es similar al del index.  Archivo nuevo y guardar (nombre del archivo y título de la página)
+
+-----------  Fin  Paso 3: Ayudas y estructura  --------------------
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 
