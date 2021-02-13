@@ -1,10 +1,5 @@
 # Documento de diseño de página Web
 
-  <iframe width="560" height="315"
-src="https://youtu.be/R0jMTHe9wRY" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 -----------  4-12-2020  Paso 1: Preliminares  --------------------
 
