@@ -1,8 +1,6 @@
 # Show-Room-
 Show Room  3D 
 
-![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](hhttps://youtu.be/kjYJRiEs310)
-
 Ya tu sabes. Aquí dándole vidilla al :
 
 https://github.com/CycloPiStudio/Plantilla_menu/tree/0afd5823d51af006a8a9f490a7b0c0837d411bf6
